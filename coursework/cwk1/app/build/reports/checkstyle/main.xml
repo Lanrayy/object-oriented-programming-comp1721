@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/lanresodeinde/OneDrive - University of Leeds/Computer Science Leeds Folder/5.Object Oriented Programming(1721)/comp1721/coursework/cwk1/app/src/main/java/comp1721/cwk1/ActiveCases.java">
+<error line="19" column="20" severity="warning" message="Name &apos;Leeds&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="24" column="31" severity="warning" message="Name &apos;a&apos; must match pattern &apos;^(e|ex|[a-z][a-z][a-zA-Z]+)$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.CatchParameterNameCheck"/>
+</file>
+</checkstyle>
